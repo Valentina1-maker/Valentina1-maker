@@ -21,3 +21,4 @@
 | [Mesto Russia](https://valentina1-maker.github.io/mesto/index.html) | Проект даёт возможность пользователю поделиться своими впечатлениями о достопримечательностях России | CSS, HTML, JS  |
 | [Russian travel](https://valentina1-maker.github.io/russian-travel/index.html) | Проект поможет пользователю построить маршрут путешествия по России  | CSS, HTML |
 
+| [Movies explorerl](https://valentina1-maker.github.io/russian-travel/index.html) | Проект поиска фильмов с возможностью аутентификации пользователей, сохранения фильмов в избранном и поиском фильмов по ключевым словам.  | CSS, HTML, JS |
