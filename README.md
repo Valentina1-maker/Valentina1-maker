@@ -1,6 +1,6 @@
 ## 👋 
 
-### Hey! My name is Valentina ✨
+## Hey! My name is Valentina ✨
 
 Мой стек 
 
